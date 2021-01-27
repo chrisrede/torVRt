@@ -16,3 +16,6 @@ Christian Redekop <christianredekop@gmail.com>
 Philipp Bzdok <philipp_dominik.bzdok@smail.fh-koeln.de>
 Alex Fischer <alexander_christian.fischer@smail.th-koeln.de>
 Ole Aurich <ole_nils.aurich@smail.th-koeln.de>
+
+![Image of VR-User](/images/logo.png)
+Format: ![Alt Text](url)
