@@ -21,3 +21,8 @@ Ole Aurich <ole_nils.aurich@smail.th-koeln.de>
 
 ![Image of VR-User](/images/20190510_115933.jpg)
 
+More Information:
+
+https://cg.web.th-koeln.de/torvrt-entwicklung-eines-torwarttrainings-zur-schulung-von-antizipation-und-reaktion-in-virtueller-realitat/
+
+https://fis.dshs-koeln.de/portal/de/publications/torvrt--entwicklung-eines-torwarttrainings-zur-schulung-von-antizipation-und-reaktion-in-virtueller-realitat(3efa0d7f-d77d-4e4d-b943-fcafcc041d6f).html
