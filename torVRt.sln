@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "torVRt", "torVRt.csproj", "{E27D29B8-7A9C-F56E-7E23-9DF3A0CC9387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "torVRt.Plugins", "torVRt.Plugins.csproj", "{52E6956A-213B-81C8-8BDC-4496E1764A5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "torVRt.Editor", "torVRt.Editor.csproj", "{68F0A764-51EE-0C2E-3DCC-D1D5C5E2A535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "torVRt.Editor.Plugins", "torVRt.Editor.Plugins.csproj", "{D9EF2D29-8744-C7ED-6824-6108AD813B38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E27D29B8-7A9C-F56E-7E23-9DF3A0CC9387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27D29B8-7A9C-F56E-7E23-9DF3A0CC9387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27D29B8-7A9C-F56E-7E23-9DF3A0CC9387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27D29B8-7A9C-F56E-7E23-9DF3A0CC9387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E6956A-213B-81C8-8BDC-4496E1764A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E6956A-213B-81C8-8BDC-4496E1764A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E6956A-213B-81C8-8BDC-4496E1764A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E6956A-213B-81C8-8BDC-4496E1764A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F0A764-51EE-0C2E-3DCC-D1D5C5E2A535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F0A764-51EE-0C2E-3DCC-D1D5C5E2A535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F0A764-51EE-0C2E-3DCC-D1D5C5E2A535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F0A764-51EE-0C2E-3DCC-D1D5C5E2A535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9EF2D29-8744-C7ED-6824-6108AD813B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EF2D29-8744-C7ED-6824-6108AD813B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EF2D29-8744-C7ED-6824-6108AD813B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EF2D29-8744-C7ED-6824-6108AD813B38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
