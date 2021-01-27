@@ -1,6 +1,8 @@
 # torVRt
 VR training Application for Soccergoalies in Unity
 
+![Image of VR-User](/images/GoalieScreenshot.jpg)
+
 The project “torVRt” was created by four students of the University of Applied Sciences
 Cologne in collaboration with the German Sport University Cologne and the youth team of
 1.FC Köln .
