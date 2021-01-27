@@ -18,4 +18,6 @@ Alex Fischer <alexander_christian.fischer@smail.th-koeln.de>
 Ole Aurich <ole_nils.aurich@smail.th-koeln.de>
 
 ![Image of VR-User](/images/20181025_163757.jpg)
-Format: ![Alt Text](url)
+
+![Image of VR-User](/images/20190510_115933.jpg)
+
